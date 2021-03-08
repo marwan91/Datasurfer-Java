@@ -4,4 +4,4 @@ This program creates a user interface for surfing a tool database. It reads exce
 
 A project source folder is included, and an exceutable .jar
 
-Please do not modify resourcefolder names.
+
